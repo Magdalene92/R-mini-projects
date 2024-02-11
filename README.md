@@ -1,1 +1,1 @@
-# R-mini-projects
+# R-covid-project
